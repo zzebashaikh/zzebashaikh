@@ -21,6 +21,6 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into the worl
   
 ### 📚 Let's Connect!
 - **Email**: zzebashaikh013@gmail.com
-- **LinkedIn**: in/zeba-shaikh-073b51315
+- **LinkedIn**: www.linkedin.com/in/zeba-shaikh-073b51315
 
 Feel free to explore my repositories and check out my progress!
